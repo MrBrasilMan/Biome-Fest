@@ -7,9 +7,9 @@
 <h2>Where is Biome Fest?</h2>
 <p>Biome Fest 1.0 is coming out soon! All features have been implemented except for a chat feature. Also, this is still an early version, and does not use Mycellium. I wish to incoperate Mycellium for a less functional but way quicker server. (It's a framework, but it may work. I will have to play around more with the files.)</p>
 <h2>What is the development track?</h2>
-<p>This is what I would like to complete</p>
+<p>This is what I would like to add</p>
 <ul>
-  <li> Add basic server functionality, including saving preferences of server in the menu, and banning or messaging players on the server</li>
-  <li> Allow for perphas a more robust messaging system, allowing for players to be more notified about server properties</li>
-  <li> Long term and wildly opimistic goal: add inventory saving by the use of editing level.dat and replacing the player's inventory with a saved level.dat on the server as an expiremental feature (not recommended for large servers unless compressed</li>
+  <li>Chat and messaging of other players</li>
+  <li>Wildly optimistic and insane idea, with hardly a glimmer of hope, of adding saved inventory</li>
+  <li>A small tutorial world when first booting up Biome Fest</li>
   </ul>
