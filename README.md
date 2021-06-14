@@ -5,7 +5,7 @@
 <b>Biome Fest is meant to be a GUI version of minecraft-pi-server. This program communicates with the terminal and displays it in an easy to understand interface.</p>
 <p>Biome fest is meant to be an easy to understand server software for MCPI users who want something that works right out of the box.</p>
 <h2>Where is Biome Fest?</h2>
-<p>Unfortunately, Biome Fest version 1.0 is still in development. However, I may dump a demo version that is not fully complete.</p>
+<p>Biome Fest 1.0 is coming out soon! All features have been implemented except for a chat feature. Also, this is still an early version, and does not use Mycellium. I wish to incoperate Mycellium for a less functional but way quicker server. (It's a framework, but it may work. I will have to play around more with the files.)</p>
 <h2>What is the development track?</h2>
 <p>This is what I would like to complete</p>
 <ul>
