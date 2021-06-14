@@ -11,5 +11,5 @@
 <ul>
   <li> Add basic server functionality, including saving preferences of server in the menu, and banning or messaging players on the server</li>
   <li> Allow for perphas a more robust messaging system, allowing for players to be more notified about server properties</li>
-  <li> Long term and slightly wild goal: add inventory saving by the use of editing level.dat and replacing the player's inventory with a saved level.dat on the server as an expiremental feature (not recommended for large servers unless compressed</li>
+  <li> Long term and wildly opimistic goal: add inventory saving by the use of editing level.dat and replacing the player's inventory with a saved level.dat on the server as an expiremental feature (not recommended for large servers unless compressed</li>
   </ul>
